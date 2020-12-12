@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1376362471/Goverment-Multi_Notes_Pad.iml" filepath="$PROJECT_DIR$/.idea/modules/-1376362471/Goverment-Multi_Notes_Pad.iml" group="Multi_Notes_Pad" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1819961825/Multi_Notes_Pad.iml" filepath="$PROJECT_DIR$/.idea/modules/-1819961825/Multi_Notes_Pad.iml" group="Multi_Notes_Pad" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Multi_Notes_Pad/app" />
+    </modules>
+  </component>
+</project>
